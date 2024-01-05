@@ -35,4 +35,8 @@ php src/guzzle_requests.php
 php src/goutte_requests.php
 
 php src/goutte_css_requests.php
+
+php src/simplehtmldom_requests.php
+
+php src/panther_requests.php
 ```
