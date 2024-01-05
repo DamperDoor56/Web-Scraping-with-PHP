@@ -19,5 +19,8 @@
         "simplehtmldom/simplehtmldom": "^2.0@RC"
     },
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "require-dev": {
+        "symfony/panther": "^2.1"
+    }
 }
