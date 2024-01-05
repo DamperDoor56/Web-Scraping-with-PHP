@@ -28,7 +28,11 @@ cd Web-Scraping-with-PHP
 composer install
 ```
 
-## 3. Initiate the script
+## 3. Initiate the scripts
 ```
 php src/guzzle_requests.php
+
+php src/goutte_requests.php
+
+php src/goutte_css_requests.php
 ```
